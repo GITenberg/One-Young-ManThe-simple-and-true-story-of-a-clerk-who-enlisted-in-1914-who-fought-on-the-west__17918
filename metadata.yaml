@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '7697'
     url: http://www.gutenberg.org/2009/agents/7697
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17918#One-Young-ManThe-simple-and-true-story-of-a-clerk-who-enlisted-in-1914-who-fought-on-the-west_
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2006-03-04'
 gutenberg_type: Text
